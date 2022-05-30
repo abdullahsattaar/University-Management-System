@@ -440,7 +440,6 @@ void interface()
 	while (i != 0)
 	{
 		system("CLS");
-		cout << "Group Members\n19L-1243 Raahim Ahmad Khan\n19L-1248 Abdullah Sattar" << endl;
 		cout << "\t\t\t-----------------------------------------\n";
 		cout << "\t\t\t     University Management System\n";
 		cout << "\t\t\t-----------------------------------------\n";
