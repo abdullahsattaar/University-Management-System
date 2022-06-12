@@ -1,4 +1,4 @@
-# University-Managemnent-System
+# University-Management-System
 Language C++, Objected Oriented, Software Design &amp; Analysis
 Functionalities:
 1) Academic officer can add/remove/update information of a new course into the system
