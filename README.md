@@ -10,3 +10,4 @@ Functionalities:
 7) He/She may view a student's performance report (including marks obtained in each evaluation along with a total)
 
 Three-tier architecture. Data from interfaces shall move into the objects, which later can be saved in files.
+Objected Oriented Progamming, Data Structures and Software Design & Analysis Concepts implemented.
